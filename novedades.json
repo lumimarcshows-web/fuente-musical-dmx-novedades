@@ -2,13 +2,13 @@
  "mensaje": "Novedades de Marc y Claude",
  "paquetes": [
   {
-   "id": "app-26",
+   "id": "app-27",
    "tipo": "app",
-   "version": 26,
-   "titulo": "Versión 26",
-   "notas": "• Versión para Mac: también se actualiza sola\n• En Mac, la música de OneDrive aparece sola",
-   "url": "https://raw.githubusercontent.com/lumimarcshows-web/fuente-musical-dmx-novedades/main/paquetes/app-26.zip",
-   "sha256": "8f0efc5a9221935ed39d39235fb96674df0b88d49ae22cf350bc6132752d2d15"
+   "version": 27,
+   "titulo": "Versión 27",
+   "notas": "• La descarga de la web ahora viene en zip (Chrome ya no la bloquea)",
+   "url": "https://raw.githubusercontent.com/lumimarcshows-web/fuente-musical-dmx-novedades/main/paquetes/app-27.zip",
+   "sha256": "b73eb5d252767fd0b6ae6afadb7ff6aa1e9d69e4a2c92a56bd4968e2000fc465"
   },
   {
    "id": "shows-marc-y-claude-1",
