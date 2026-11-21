@@ -1,0 +1,22 @@
+{
+ "mensaje": "Novedades de Marc y Claude",
+ "paquetes": [
+  {
+   "id": "app-19",
+   "tipo": "app",
+   "version": 19,
+   "titulo": "Versión 19",
+   "notas": "• Botón 🔄 Novedades: la app se actualiza sola\n• Avisa cuando hay shows nuevos",
+   "url": "https://github.com/lumimarcshows-web/fuente-musical-dmx-novedades/releases/download/v19/app-19.zip",
+   "sha256": "ab5cf9c065a32c92a7c7abbbba6bcb4adabace106d38620093db31bad6197acb"
+  },
+  {
+   "id": "shows-marc-y-claude-1",
+   "tipo": "shows",
+   "titulo": "10 shows hechos a mano",
+   "notas": "People Are Strange, Once Upon a December, Beautiful People, Rock With You, Levitating,\nTime To Say Goodbye, Don't Stop, Mission Impossible, Swingin' Hula Girl y A Sky Full of Stars (con mamá)",
+   "url": "https://github.com/lumimarcshows-web/fuente-musical-dmx-novedades/releases/download/v19/shows-marc-y-claude-1.zip",
+   "sha256": "9773f890cefd98bf22ebc4014a29e471b2bf7d630d78051e0b1e882852d1b87c"
+  }
+ ]
+}
