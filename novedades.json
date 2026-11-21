@@ -2,13 +2,13 @@
  "mensaje": "Novedades de Marc y Claude",
  "paquetes": [
   {
-   "id": "app-23",
+   "id": "app-24",
    "tipo": "app",
-   "version": 23,
-   "titulo": "Versión 23",
-   "notas": "• El botón 🔔 Novedades solo sale cuando hay algo nuevo\n• Si dices «Ahora no», se queda encendido para pulsarlo luego",
-   "url": "https://raw.githubusercontent.com/lumimarcshows-web/fuente-musical-dmx-novedades/main/paquetes/app-23.zip",
-   "sha256": "091422e72cbdda766e96f1f9f00ca09f7abcdbc7e41137209f4b3c5497514c16"
+   "version": 24,
+   "titulo": "Versión 24",
+   "notas": "• La música de tu carpeta privada de OneDrive «Música fuente» aparece sola en la app",
+   "url": "https://raw.githubusercontent.com/lumimarcshows-web/fuente-musical-dmx-novedades/main/paquetes/app-24.zip",
+   "sha256": "1daa6e478e20dd4b8ee4d364aaa1f231218861b56d2abceb859728b48edf91d7"
   },
   {
    "id": "shows-marc-y-claude-1",
