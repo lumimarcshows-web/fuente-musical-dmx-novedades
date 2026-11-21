@@ -2,13 +2,13 @@
  "mensaje": "Novedades de Marc y Claude",
  "paquetes": [
   {
-   "id": "app-20",
+   "id": "app-21",
    "tipo": "app",
-   "version": 20,
-   "titulo": "Versión 20",
-   "notas": "• La app se actualiza sola (botón 🔄 Novedades)\n• Mejoras internas para publicar shows",
-   "url": "https://raw.githubusercontent.com/lumimarcshows-web/fuente-musical-dmx-novedades/main/paquetes/app-20.zip",
-   "sha256": "e468cc04d6a68f135b3fdb01dffffe0d4efa95cfa247603a7e690da348712b7e"
+   "version": 21,
+   "titulo": "Versión 21",
+   "notas": "• La app se actualiza sola (botón 🔄 Novedades)\n• Avisa cuando hay shows nuevos",
+   "url": "https://raw.githubusercontent.com/lumimarcshows-web/fuente-musical-dmx-novedades/main/paquetes/app-21.zip",
+   "sha256": "d362460e7f1e255e6da66ec3e84bad87d6a40dfc9b2dd4d068ff7f435d34e824"
   },
   {
    "id": "shows-marc-y-claude-1",
