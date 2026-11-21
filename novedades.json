@@ -2,13 +2,13 @@
  "mensaje": "Novedades de Marc y Claude",
  "paquetes": [
   {
-   "id": "app-24",
+   "id": "app-25",
    "tipo": "app",
-   "version": 24,
-   "titulo": "Versión 24",
-   "notas": "• La música de tu carpeta privada de OneDrive «Música fuente» aparece sola en la app",
-   "url": "https://raw.githubusercontent.com/lumimarcshows-web/fuente-musical-dmx-novedades/main/paquetes/app-24.zip",
-   "sha256": "1daa6e478e20dd4b8ee4d364aaa1f231218861b56d2abceb859728b48edf91d7"
+   "version": 25,
+   "titulo": "Versión 25",
+   "notas": "• La música de OneDrive «Música fuente» aparece sola\n• Mejoras para la web de Lumimarc",
+   "url": "https://raw.githubusercontent.com/lumimarcshows-web/fuente-musical-dmx-novedades/main/paquetes/app-25.zip",
+   "sha256": "072b78e5ff119368e975c31e69d1ad19557a0eb211fc48055ba44b313974c35b"
   },
   {
    "id": "shows-marc-y-claude-1",
