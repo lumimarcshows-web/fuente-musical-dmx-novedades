@@ -2,13 +2,13 @@
  "mensaje": "Novedades de Marc y Claude",
  "paquetes": [
   {
-   "id": "app-28",
+   "id": "app-29",
    "tipo": "app",
-   "version": 28,
-   "titulo": "Versión 28",
-   "notas": "• Editor de la web: textos, fotos, vídeos y novedades\n• Tus ordenadores «de Marc» se actualizan entre ellos",
-   "url": "https://raw.githubusercontent.com/lumimarcshows-web/fuente-musical-dmx-novedades/main/paquetes/app-28.zip",
-   "sha256": "b4827550e238bd0d73239c467cf58f275a5728e8b166ba53c10f1999c5a27152"
+   "version": 29,
+   "titulo": "Versión 29",
+   "notas": "• Seguridad: las novedades van cifradas (solo las abre el programa)\n• Descargas de la web solo con cuenta",
+   "url": "https://raw.githubusercontent.com/lumimarcshows-web/fuente-musical-dmx-novedades/main/paquetes/app-29.bin",
+   "sha256": "8b7daf21bcc140d6183a78a0b4de3d4e8780547132c62fce443742019ae28f3f"
   },
   {
    "id": "shows-marc-y-claude-1",
