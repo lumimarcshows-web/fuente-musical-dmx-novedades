@@ -15,7 +15,7 @@
    "tipo": "shows",
    "titulo": "10 shows hechos a mano",
    "notas": "People Are Strange, Once Upon a December, Beautiful People, Rock With You, Levitating,\nTime To Say Goodbye, Don't Stop, Mission Impossible, Swingin' Hula Girl y A Sky Full of Stars (con mamá)",
-   "url": "https://github.com/lumimarcshows-web/fuente-musical-dmx-novedades/releases/download/v19/shows-marc-y-claude-1.zip",
+   "url": "https://raw.githubusercontent.com/lumimarcshows-web/fuente-musical-dmx-novedades/main/paquetes/shows-marc-y-claude-1.bin",
    "sha256": "9773f890cefd98bf22ebc4014a29e471b2bf7d630d78051e0b1e882852d1b87c"
   },
   {
@@ -23,7 +23,7 @@
    "tipo": "shows",
    "titulo": "Shows nuevos (9)",
    "notas": "01 People Are Strange (Marc y Claude a mano), 02 Once Upon a December (Marc y Claude a mano), 03 Beautiful People (Marc y Claude a mano), 04 Rock With You (Marc y Claude a mano), 05 Levitating (Marc y Claude a mano), 06 Time To Say Goodbye (Marc y Claude a mano), 07 Don't Stop 'Til You Get Enough (Marc y Claude a mano), 08 Mission Impossible (Marc y Claude a mano), 09 Swingin' Hula Girl (Marc y Claude a mano)",
-   "url": "https://raw.githubusercontent.com/lumimarcshows-web/fuente-musical-dmx-novedades/main/paquetes/shows-20261121-104712.zip",
+   "url": "https://raw.githubusercontent.com/lumimarcshows-web/fuente-musical-dmx-novedades/main/paquetes/shows-20261121-104712.bin",
    "sha256": "9035f9d464ecd466c694be01d8549d59d7357d6b829a15a142e9e41be8518b08"
   }
  ]
